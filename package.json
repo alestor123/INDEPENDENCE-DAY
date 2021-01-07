@@ -1,0 +1,25 @@
+{
+  "name": "independence-day",
+  "version": "1.0.0",
+  "description": "This is a simple code for wishing every one a happy independence day",
+  "main": "App.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "log-update": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/INDEPENDENCE-DAY.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/INDEPENDENCE-DAY/issues"
+  },
+  "homepage": "https://github.com/alestor123/INDEPENDENCE-DAY#readme"
+}
