@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var chalk = require('chalk'),
 figlet = require('figlet'),
 log = require('log-update');
